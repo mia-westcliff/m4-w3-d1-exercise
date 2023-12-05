@@ -1,6 +1,7 @@
 {
   "name": "react-demo-tdd",
   "version": "1.0.0",
+  "type": "module",
   "description": "React TDD",
   "main": "index.js",
   "scripts": {
